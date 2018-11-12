@@ -11,6 +11,14 @@ body {
 	text-align: center;
 }
 
+a {
+	color: #6af099;
+}
+
+a:hover {
+	color: #5ed688;
+}
+
 
 .container {
 	position: absolute;
